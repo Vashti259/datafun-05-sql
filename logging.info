@@ -1,1 +1,5 @@
+# Configure logging to write to a file, appending new logs to the existing file
+logging.basicConfig(filename='log.txt', level=logging.DEBUG, filemode='a', format='%(asctime)s - %(levelname)s - %(message)s')
 
+logging.info("Program started")
+logging.info("Program ended")
