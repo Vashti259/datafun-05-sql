@@ -5,7 +5,7 @@ The Process of this Project is as follows:
 I create a new GitHub repo with the name Datafun-05-sql.  It includes the default README.md and a .gitignore for Python. 
 I cloned it down to my machine in my Documents folder.
 I Use venv to create a new .venv environment in the repo on your machine. 
-Activate your environment using the command for your operating system. 
+The environment was activated using the command for my windows operating system. 
 I installed pandas.
 I Installed pandas in.venv
 I ran pip freeze and redirect the results (>) into requirements.txt 
